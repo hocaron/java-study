@@ -1,6 +1,7 @@
+package src.main.java.com.basestudy;
+
 import java.util.Arrays;
 import java.util.Collection;
-import java.util.Stack;
 
 public class GenericTest {
 	public static void main(String[] args) {

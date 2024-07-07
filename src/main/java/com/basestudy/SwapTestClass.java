@@ -1,3 +1,5 @@
+package src.main.java.com.basestudy;
+
 public class SwapTestClass {
 
     public static void main(String[] args) {
@@ -52,7 +54,7 @@ public class SwapTestClass {
         System.out.println("Inside swapNewObjects - after change - person1: " + person1 + ", person2: " + person2);
     }
 
-    public static class Person {
+    private static class Person {
         private Integer age;
 
         public Person(Integer age) {
