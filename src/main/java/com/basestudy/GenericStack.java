@@ -1,4 +1,4 @@
-package src.main.java.com.basestudy;
+package com.basestudy;
 
 import java.util.Collection;
 import java.util.Stack;
